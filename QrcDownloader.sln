@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrcDownloader", "QrcDownloader\QrcDownloader.csproj", "{E704E0C3-1D58-4CC7-8E0A-81201E4D7C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E704E0C3-1D58-4CC7-8E0A-81201E4D7C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E704E0C3-1D58-4CC7-8E0A-81201E4D7C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E704E0C3-1D58-4CC7-8E0A-81201E4D7C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E704E0C3-1D58-4CC7-8E0A-81201E4D7C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB75289C-169C-44F0-A576-182BE2FA4CCA}
+	EndGlobalSection
+EndGlobal
